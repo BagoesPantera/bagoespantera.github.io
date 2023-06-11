@@ -1,0 +1,22 @@
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    text-align: center;
+
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    height: 40px;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+}
