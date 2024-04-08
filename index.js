@@ -5,7 +5,7 @@ const datas = [
         title: "Github"
     },
     {
-        link: "https://www.instagram.com/bagoespantera/",
+        link: "https://www.instagram.com/panteraqt/",
         img: "img/Instagram-Icon.jpg",
         title: "Instagram"
     },
